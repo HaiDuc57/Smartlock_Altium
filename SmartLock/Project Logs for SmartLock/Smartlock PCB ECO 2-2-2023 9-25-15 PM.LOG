@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=5v Pin=PIR-2
+Added Pin To Net: NetName=5v Pin=SW420-2
+Added Member To Class: ClassName=Smartlock Member=Component  HCSR
+Added Room: Name=AS608
+Added Room: Name=Buzzer
+Added Room: Name=Keypad
+Added Room: Name=LCD1602_I2C
+Added Room: Name=Reset
+Added Room: Name=Servo
+Added Room: Name=Smartlock

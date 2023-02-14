@@ -1,0 +1,170 @@
+Added Component: Designator=AS608(HEADER_4_2P54_SHROUDED)
+Add component (AddParameter): Name = "Description SEL"; Value = "Header_4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Type"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Code"; Value = "S1900-000023"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Point"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Buzzer(XDCR_AI-1223-TWT-5V-R)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'PUI Audio,'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AI-1223-TWT-5V-R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Keypad(HEADER_8_2P54_SHROUDED)
+Add component (AddParameter): Name = "Description SEL"; Value = "Header_8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Type"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Code"; Value = "S1900-000027"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Point"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LCD(HEADER_4_2P54_SHROUDED)
+Add component (AddParameter): Name = "Description SEL"; Value = "Header_4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Type"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Code"; Value = "S1900-000023"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Point"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=MCU(MODULE_ESP32-DEVKITV1)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Do it'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ESP32-DEVKIT-V1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Power?(HEADER_2)
+Add component (AddParameter): Name = "Description SEL"; Value = "CONN HEADER VERT 2POS 2.5MM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Type"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST Sales America Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Code"; Value = "S1900-000037"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "B2B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Point"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Header_2"; VariantName = "[No Variations]"
+Added Component: Designator=RST(HEADER_2)
+Add component (AddParameter): Name = "Description SEL"; Value = "CONN HEADER VERT 2POS 2.5MM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Type"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST Sales America Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Code"; Value = "S1900-000037"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "B2B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Point"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Header_2"; VariantName = "[No Variations]"
+Added Component: Designator=R(RES-1/2W)
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "R"; VariantName = "[No Variations]"
+Added Component: Designator=Servo(HEADER_3_2P54_SHROUDED)
+Add component (AddParameter): Name = "Description SEL"; Value = "Header_3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Type"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Code"; Value = "S1900-000021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Point"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3v3 Pin=AS608-1
+Added Pin To Net: NetName=3v3 Pin=Buzzer-P
+Added Pin To Net: NetName=3v3 Pin=LCD-2
+Added Pin To Net: NetName=3v3 Pin=MCU-1
+Added Pin To Net: NetName=3v3 Pin=R-1
+Added Net: Name=3v3
+Added Pin To Net: NetName=5v Pin=MCU-30
+Added Pin To Net: NetName=5v Pin=Power?-1
+Added Pin To Net: NetName=5v Pin=Servo-2
+Added Net: Name=5v
+Added Pin To Net: NetName=GND Pin=AS608-4
+Added Pin To Net: NetName=GND Pin=LCD-1
+Added Pin To Net: NetName=GND Pin=MCU-2
+Added Pin To Net: NetName=GND Pin=MCU-29
+Added Pin To Net: NetName=GND Pin=Power?-2
+Added Pin To Net: NetName=GND Pin=RST-1
+Added Pin To Net: NetName=GND Pin=Servo-3
+Added Net: Name=GND
+Added Pin To Net: NetName=NetAS608_2 Pin=AS608-2
+Added Pin To Net: NetName=NetAS608_2 Pin=MCU-26
+Added Net: Name=NetAS608_2
+Added Pin To Net: NetName=NetAS608_3 Pin=AS608-3
+Added Pin To Net: NetName=NetAS608_3 Pin=MCU-28
+Added Net: Name=NetAS608_3
+Added Pin To Net: NetName=NetBuzzer_N Pin=Buzzer-N
+Added Pin To Net: NetName=NetBuzzer_N Pin=MCU-22
+Added Net: Name=NetBuzzer_N
+Added Pin To Net: NetName=NetKeypad_1 Pin=Keypad-1
+Added Pin To Net: NetName=NetKeypad_1 Pin=MCU-10
+Added Net: Name=NetKeypad_1
+Added Pin To Net: NetName=NetKeypad_2 Pin=Keypad-2
+Added Pin To Net: NetName=NetKeypad_2 Pin=MCU-9
+Added Net: Name=NetKeypad_2
+Added Pin To Net: NetName=NetKeypad_3 Pin=Keypad-3
+Added Pin To Net: NetName=NetKeypad_3 Pin=MCU-8
+Added Net: Name=NetKeypad_3
+Added Pin To Net: NetName=NetKeypad_4 Pin=Keypad-4
+Added Pin To Net: NetName=NetKeypad_4 Pin=MCU-7
+Added Net: Name=NetKeypad_4
+Added Pin To Net: NetName=NetKeypad_5 Pin=Keypad-5
+Added Pin To Net: NetName=NetKeypad_5 Pin=MCU-6
+Added Net: Name=NetKeypad_5
+Added Pin To Net: NetName=NetKeypad_6 Pin=Keypad-6
+Added Pin To Net: NetName=NetKeypad_6 Pin=MCU-5
+Added Net: Name=NetKeypad_6
+Added Pin To Net: NetName=NetKeypad_7 Pin=Keypad-7
+Added Pin To Net: NetName=NetKeypad_7 Pin=MCU-4
+Added Net: Name=NetKeypad_7
+Added Pin To Net: NetName=NetKeypad_8 Pin=Keypad-8
+Added Pin To Net: NetName=NetKeypad_8 Pin=MCU-3
+Added Net: Name=NetKeypad_8
+Added Pin To Net: NetName=NetLCD_3 Pin=LCD-3
+Added Pin To Net: NetName=NetLCD_3 Pin=MCU-11
+Added Net: Name=NetLCD_3
+Added Pin To Net: NetName=NetLCD_4 Pin=LCD-4
+Added Pin To Net: NetName=NetLCD_4 Pin=MCU-14
+Added Net: Name=NetLCD_4
+Added Pin To Net: NetName=NetMCU_16 Pin=MCU-16
+Added Pin To Net: NetName=NetMCU_16 Pin=R-2
+Added Pin To Net: NetName=NetMCU_16 Pin=RST-2
+Added Net: Name=NetMCU_16
+Added Pin To Net: NetName=NetMCU_25 Pin=MCU-25
+Added Pin To Net: NetName=NetMCU_25 Pin=Servo-1
+Added Net: Name=NetMCU_25
+Added Class: Name=AS608
+Added Class: Name=Buzzer
+Added Class: Name=Keypad
+Added Class: Name=LCD1602_I2C
+Added Class: Name=Reset
+Added Class: Name=Servo
+Added Class: Name=Smartlock
+Added Room: Name=AS608
+Added Room: Name=Buzzer
+Added Room: Name=Keypad
+Added Room: Name=LCD1602_I2C
+Added Room: Name=Reset
+Added Room: Name=Servo
+Added Room: Name=Smartlock

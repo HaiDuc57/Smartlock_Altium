@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=NetMCU_25 Pin=Servo-1
+Change Component Designator: OldDesignator= NewDesignator=HCSR
+Added Pin To Net: NetName=NetMCU_25 Pin=PIR-1
+Added Pin To Net: NetName=NetHCSR_1 Pin=HCSR-1
+Added Net: Name=NetHCSR_1
+Added Pin To Net: NetName=NetHCSR_2 Pin=HCSR-2
+Added Net: Name=NetHCSR_2
+Added Pin To Net: NetName=NetMCU_24 Pin=MCU-24
+Added Pin To Net: NetName=NetMCU_24 Pin=SW420-1
+Added Net: Name=NetMCU_24
+Added Pin To Net: NetName=NetMCU_27 Pin=MCU-27
+Added Pin To Net: NetName=NetMCU_27 Pin=Servo-1
+Added Net: Name=NetMCU_27
+Added Member To Class: ClassName=Smartlock Member=Component HCSR
+Added Member To Class: ClassName=Smartlock Member=Component PIR
+Added Room: Name=AS608
+Added Room: Name=Buzzer
+Added Room: Name=Keypad
+Added Room: Name=LCD1602_I2C
+Added Room: Name=Reset
+Added Room: Name=Servo
+Added Room: Name=Smartlock

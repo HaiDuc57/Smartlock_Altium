@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=R? Old Footprint=RES-1/2W New Footprint=RES-1/8W
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=RST? NewDesignator=RST1

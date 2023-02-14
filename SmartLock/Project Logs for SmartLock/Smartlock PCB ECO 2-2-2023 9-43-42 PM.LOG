@@ -1,0 +1,26 @@
+Added Component: Designator=CAM(HEADER_2)
+Add component (AddParameter): Name = "Description SEL"; Value = "CONN HEADER VERT 2POS 2.5MM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Type"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST Sales America Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Code"; Value = "S1900-000037"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "B2B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Point"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Header_2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=CAM-2
+Added Pin To Net: NetName=NetHCSR_1 Pin=MCU-22
+Added Pin To Net: NetName=NetHCSR_2 Pin=MCU-23
+Added Pin To Net: NetName=NetCAM_1 Pin=CAM-1
+Added Pin To Net: NetName=NetCAM_1 Pin=MCU-21
+Added Net: Name=NetCAM_1
+Added Member To Class: ClassName=Smartlock Member=Component CAM CONN HEADER VERT 2POS 2.5MM
+Added Room: Name=AS608
+Added Room: Name=Buzzer
+Added Room: Name=Keypad
+Added Room: Name=LCD1602_I2C
+Added Room: Name=Reset
+Added Room: Name=Servo
+Added Room: Name=Smartlock

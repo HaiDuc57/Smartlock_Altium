@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=RST-1
+Removed Pin From Net: NetName=NetMCU_16 Pin=RST-2
+Added Pin To Net: NetName=NetMCU_16 Pin=RST-1
+Added Pin To Net: NetName=GND Pin=RST-2
+Added Room: Name=AS608
+Added Room: Name=Buzzer
+Added Room: Name=Keypad
+Added Room: Name=LCD1602_I2C
+Added Room: Name=Reset
+Added Room: Name=Servo
+Added Room: Name=Smartlock

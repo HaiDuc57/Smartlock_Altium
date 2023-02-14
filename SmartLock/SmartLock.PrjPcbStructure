@@ -1,0 +1,7 @@
+Record=TopLevelDocument|FileName=AS608.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=AS608.SchDoc|FileName=Buzzer.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=AS608.SchDoc|FileName=Keypad.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=AS608.SchDoc|FileName=LCD1602_I2C.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=AS608.SchDoc|FileName=Reset.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=AS608.SchDoc|FileName=Servo.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=AS608.SchDoc|FileName=Smartlock.SchDoc|SheetNumber=3

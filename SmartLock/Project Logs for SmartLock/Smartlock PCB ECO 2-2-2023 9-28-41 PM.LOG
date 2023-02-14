@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=5v Pin=-3
+Added Pin To Net: NetName=GND Pin=-4
+Added Pin To Net: NetName=GND Pin=PIR-3
+Added Pin To Net: NetName=GND Pin=SW420-3
+Added Member To Class: ClassName=Smartlock Member=Component  HCSR
+Added Room: Name=AS608
+Added Room: Name=Buzzer
+Added Room: Name=Keypad
+Added Room: Name=LCD1602_I2C
+Added Room: Name=Reset
+Added Room: Name=Servo
+Added Room: Name=Smartlock
